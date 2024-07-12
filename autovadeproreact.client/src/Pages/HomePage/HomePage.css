@@ -1,0 +1,44 @@
+.bg-home {
+    /* The image used */
+    background-image: url("../../assets/Images/HomeGif.gif");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div-home {
+    min-height: 850px;
+    min-width: 1000px;
+}
+
+.dot {
+    height: 40px;
+    width: 40px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px; /* Adjust margin as needed */
+    white-space: nowrap;
+  }
+
+  /* Style for the "Live feed" text */
+  .live-feed {
+    text-align:left;
+    font-weight: bold;
+    color: black; /* Change the color as needed */
+    white-space: nowrap;
+  }
+  .strokeme
+{
+    font-size: 30px;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+    white-space: nowrap;
+}

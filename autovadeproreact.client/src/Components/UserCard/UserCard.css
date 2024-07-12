@@ -1,0 +1,31 @@
+.btn-view{
+    margin-right:5px;
+}
+.btn-edit{
+    margin-right:5px;
+}
+.btn-delete{
+    margin-right:5px;
+}
+.card-body {
+    padding: 1.25rem;
+    min-width: 200px;
+    max-height: 400px;
+}
+.avatar.avatar-xl {
+    width: 5rem;
+    height: 5rem;
+}
+.avatar {
+    width: 2rem;
+    height: 2rem;
+    line-height: 2rem;
+    border-radius: 50%;
+    display: inline-block;
+    background: #ced4da no-repeat center/cover;
+    position: relative;
+    text-align: center;
+    color: #868e96;
+    font-weight: 600;
+    vertical-align: bottom;
+}

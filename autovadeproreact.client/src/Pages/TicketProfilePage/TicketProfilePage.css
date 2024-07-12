@@ -1,0 +1,48 @@
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+
+}
+.img-ticket-maga {
+   width: 10px;
+   height:10px;
+}
+
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.fill-img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
+body{
+    background:#eee;
+}
+.card {
+    box-shadow: 0 20px 27px 0 rgb(0 0 0 / 5%);
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 200;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid rgba(0,0,0,.125);
+    border-radius: 1rem;
+}
+.text-reset {
+    --bs-text-opacity: 1;
+    color: inherit!important;
+    font-size: 3rem;
+}
+a {
+    color: #5465ff;
+    text-decoration: none;
+}

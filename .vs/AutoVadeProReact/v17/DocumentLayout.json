@@ -1,0 +1,699 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\usercreate\\usercreate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\usercreate\\usercreate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\pages\\usermodifypage\\usermodifypage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\pages\\usermodifypage\\usermodifypage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\pages\\userlistpage\\userlistpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\pages\\userlistpage\\userlistpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\pages\\ticketprofilepage\\ticketdetailpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\pages\\ticketprofilepage\\ticketdetailpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\models\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\models\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\pages\\ticketmodifypage\\ticketmodifypage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\pages\\ticketmodifypage\\ticketmodifypage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\pages\\ticketprofilepage\\ticketprofilepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\pages\\ticketprofilepage\\ticketprofilepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\dtos\\addtimeslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\dtos\\addtimeslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\partpopup\\partpopup.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\partpopup\\partpopup.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\carpartentry\\carpartentry.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\carpartentry\\carpartentry.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\node_modules\\scheduler\\cjs\\scheduler.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:autovadeproreact.client\\node_modules\\scheduler\\cjs\\scheduler.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\dtos\\addpartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\dtos\\addpartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProMVC\\AutoVadeProMVC\\Migrations\\20240508212317_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\dtos\\signinuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\dtos\\signinuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\services\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\services\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\dtos\\editticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\dtos\\editticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\pages\\usermodifypage\\usermodifypage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\pages\\usermodifypage\\usermodifypage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\dtos\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\dtos\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\pages\\userprofilepage\\userprofilepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\pages\\userprofilepage\\userprofilepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\pages\\userprofilepage\\userprofilepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\pages\\userprofilepage\\userprofilepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\signin\\signin.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\signin\\signin.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\userlist\\userlist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\userlist\\userlist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\signin\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\signin\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\usercard\\usercard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\usercard\\usercard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\pages\\homepage\\homepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\pages\\homepage\\homepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\usercreate\\usercreate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\usercreate\\usercreate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\usercard\\usercard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\usercard\\usercard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\usercontext\\usercontext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\usercontext\\usercontext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\dtos\\loggedinuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\dtos\\loggedinuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\data\\loggedinuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\data\\loggedinuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\search\\search.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\search\\search.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\components\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\components\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFFA6732-FA07-4D18-B1B6-F8C45B7503D8}|autovadeproreact.client\\autovadeproreact.client.esproj|solutionrelative:autovadeproreact.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|c:\\users\\sevab\\documents\\university\\third impact\\egui\\asp.net\\autovadeproreact\\autovadeproreact.server\\migrations\\20240611152926_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1676B8-4AC5-47C5-8A2A-C587FD4D41E1}|AutoVadeProReact.Server\\AutoVadeProReact.Server.csproj|solutionrelative:autovadeproreact.server\\migrations\\20240611152926_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Services\\PhotoService.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\Services\\PhotoService.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Services\\PhotoService.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\Services\\PhotoService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:44:11.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketModifyPage.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\TicketModifyPage\\TicketModifyPage.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Pages\\TicketModifyPage\\TicketModifyPage.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\TicketModifyPage\\TicketModifyPage.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Pages\\TicketModifyPage\\TicketModifyPage.tsx",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwGwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-12T22:23:01.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddTimeSlotDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\AddTimeSlotDTO.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\DTOs\\AddTimeSlotDTO.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\AddTimeSlotDTO.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\DTOs\\AddTimeSlotDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:32:17.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketDetailPage.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\TicketProfilePage\\TicketDetailPage.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Pages\\TicketProfilePage\\TicketDetailPage.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\TicketProfilePage\\TicketDetailPage.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Pages\\TicketProfilePage\\TicketDetailPage.tsx",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAJcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-12T20:23:54.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketProfilePage.css",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\TicketProfilePage\\TicketProfilePage.css",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Pages\\TicketProfilePage\\TicketProfilePage.css",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\TicketProfilePage\\TicketProfilePage.css",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Pages\\TicketProfilePage\\TicketProfilePage.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T20:23:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarPartEntry.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\CarPartEntry\\CarPartEntry.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\CarPartEntry\\CarPartEntry.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\CarPartEntry\\CarPartEntry.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\CarPartEntry\\CarPartEntry.tsx",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-12T19:57:49.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PartPopUp.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\PartPopUp\\PartPopUp.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\PartPopUp\\PartPopUp.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\PartPopUp\\PartPopUp.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\PartPopUp\\PartPopUp.tsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-12T18:51:14.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Models\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\Models\\TimeSlot.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Models\\TimeSlot.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\Models\\TimeSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:56:36.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddPartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\AddPartDTO.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\DTOs\\AddPartDTO.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\AddPartDTO.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\DTOs\\AddPartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:08:35.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240508212317_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProMVC\\AutoVadeProMVC\\Migrations\\20240508212317_Initial.cs",
+              "RelativeDocumentMoniker": "..\\AutoVadeProMVC\\AutoVadeProMVC\\Migrations\\20240508212317_Initial.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProMVC\\AutoVadeProMVC\\Migrations\\20240508212317_Initial.cs",
+              "RelativeToolTip": "..\\AutoVadeProMVC\\AutoVadeProMVC\\Migrations\\20240508212317_Initial.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAcwLgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:31:14.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240611152926_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Migrations\\20240611152926_Initial.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\Migrations\\20240611152926_Initial.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Migrations\\20240611152926_Initial.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\Migrations\\20240611152926_Initial.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:29:26.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Services\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\Services\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Services\\TicketRepository.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\Services\\TicketRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:23:20.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Models\\Ticket.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:21:44.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Program.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:14:15.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAwH0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:04:53.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\DTOs\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\CreateUserDTO.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\DTOs\\CreateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:43:31.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\EditUserDTO.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\DTOs\\EditUserDTO.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\EditUserDTO.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\DTOs\\EditUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:42:11.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditTicketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\EditTicketDTO.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\DTOs\\EditTicketDTO.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\EditTicketDTO.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\DTOs\\EditTicketDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:41:13.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserModifyPage.css",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\UserModifyPage\\UserModifyPage.css",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Pages\\UserModifyPage\\UserModifyPage.css",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\UserModifyPage\\UserModifyPage.css",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Pages\\UserModifyPage\\UserModifyPage.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-11T13:32:02.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModifyPage.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\UserModifyPage\\UserModifyPage.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Pages\\UserModifyPage\\UserModifyPage.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\UserModifyPage\\UserModifyPage.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Pages\\UserModifyPage\\UserModifyPage.tsx",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-11T12:40:13.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserProfilePage.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\UserProfilePage\\UserProfilePage.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Pages\\UserProfilePage\\UserProfilePage.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\UserProfilePage\\UserProfilePage.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Pages\\UserProfilePage\\UserProfilePage.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-10T19:48:34.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserProfilePage.css",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\UserProfilePage\\UserProfilePage.css",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Pages\\UserProfilePage\\UserProfilePage.css",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\UserProfilePage\\UserProfilePage.css",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Pages\\UserProfilePage\\UserProfilePage.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-10T19:43:02.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserListPage.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\UserListPage\\UserListPage.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Pages\\UserListPage\\UserListPage.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\UserListPage\\UserListPage.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Pages\\UserListPage\\UserListPage.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-10T19:42:49.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserList.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserList\\UserList.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\UserList\\UserList.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserList\\UserList.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\UserList\\UserList.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-10T17:28:50.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\Services\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Services\\UserRepository.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\Services\\UserRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:52:15.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SignIn.css",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\SignIn\\SignIn.css",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\SignIn\\SignIn.css",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\SignIn\\SignIn.css",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\SignIn\\SignIn.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-10T16:02:41.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SignIn.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\SignIn\\SignIn.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\SignIn\\SignIn.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\SignIn\\SignIn.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\SignIn\\SignIn.tsx",
+              "ViewState": "AQIAABEAAAAAAAAAAABRwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-10T15:39:20.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserCreate.css",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserCreate\\UserCreate.css",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\UserCreate\\UserCreate.css",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserCreate\\UserCreate.css",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\UserCreate\\UserCreate.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-10T14:34:28.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomePage.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\HomePage\\HomePage.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Pages\\HomePage\\HomePage.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Pages\\HomePage\\HomePage.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Pages\\HomePage\\HomePage.tsx",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBZwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-10T14:29:17.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserCreate.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserCreate\\UserCreate.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\UserCreate\\UserCreate.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserCreate\\UserCreate.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\UserCreate\\UserCreate.tsx",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-10T12:57:10.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "scheduler.development.js",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\node_modules\\scheduler\\cjs\\scheduler.development.js",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\node_modules\\scheduler\\cjs\\scheduler.development.js",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\node_modules\\scheduler\\cjs\\scheduler.development.js",
+              "RelativeToolTip": "autovadeproreact.client\\node_modules\\scheduler\\cjs\\scheduler.development.js",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAhwPEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-10T12:20:18.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserContext.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserContext\\UserContext.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\UserContext\\UserContext.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserContext\\UserContext.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\UserContext\\UserContext.tsx",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-10T12:20:01.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignInUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\SignInUserDTO.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\DTOs\\SignInUserDTO.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\SignInUserDTO.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\DTOs\\SignInUserDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:47:35.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoggedInUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\LoggedInUserDTO.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\DTOs\\LoggedInUserDTO.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\DTOs\\LoggedInUserDTO.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\DTOs\\LoggedInUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:47:19.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Models\\User.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\Models\\User.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:28:17.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoggedInUser.cs",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Data\\LoggedInUser.cs",
+              "RelativeDocumentMoniker": "AutoVadeProReact.Server\\Data\\LoggedInUser.cs",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\AutoVadeProReact.Server\\Data\\LoggedInUser.cs",
+              "RelativeToolTip": "AutoVadeProReact.Server\\Data\\LoggedInUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:28:13.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserCard.css",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserCard\\UserCard.css",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\UserCard\\UserCard.css",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserCard\\UserCard.css",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\UserCard\\UserCard.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-09T13:30:05.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserCard.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserCard\\UserCard.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\UserCard\\UserCard.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\UserCard\\UserCard.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\UserCard\\UserCard.tsx",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBZwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-09T13:25:43.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Search.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\Search\\Search.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\Search\\Search.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\Search\\Search.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\Search\\Search.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-09T13:25:35.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\App.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\App.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\App.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-09T13:24:46.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "vite-env.d.ts",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\vite-env.d.ts",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\Components\\vite-env.d.ts",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\Components\\vite-env.d.ts",
+              "RelativeToolTip": "autovadeproreact.client\\src\\Components\\vite-env.d.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-09T13:24:45.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "autovadeproreact.client\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\sevab\\Documents\\University\\Third Impact\\EGUI\\ASP.NET\\AutoVadeProReact\\autovadeproreact.client\\src\\main.tsx",
+              "RelativeToolTip": "autovadeproreact.client\\src\\main.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-08T13:01:24.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
